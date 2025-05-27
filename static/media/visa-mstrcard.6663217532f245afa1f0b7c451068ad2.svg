@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="32" viewBox="0 0 48 32">
+  <g id="Group_53872" data-name="Group 53872" transform="translate(-843.087 -910)">
+    <g id="mastercard-dark-large" transform="translate(859.087 920.667)">
+      <rect id="card_bg" width="32" height="21.333" rx="4" fill="#212b36"/>
+      <g id="mastercard" transform="translate(3.1 2.133)">
+        <g id="Group" transform="translate(0 0)" opacity="0">
+          <rect id="Rectangle" width="25.807" height="17.067" fill="#fff"/>
+        </g>
+        <rect id="Rectangle-2" data-name="Rectangle" width="6.807" height="11.12" transform="translate(9.5 2.973)" fill="#f26122"/>
+        <path id="Path" d="M8.779,7.073a7.053,7.053,0,0,1,2.667-5.56,7.073,7.073,0,1,0,0,11.12A7.053,7.053,0,0,1,8.779,7.073Z" transform="translate(1.454 1.46)" fill="#ea1d25"/>
+        <path id="Shape" d="M.334.274H.287V0H.353L.44.193.52,0H.587V.273H.54V.067L.467.247H.413L.334.067V.274Zm-.2,0H.094V.047H0V0H.233V.047h-.1V.273Z" transform="translate(23.527 12.64)" fill="#f69e1e"/>
+        <path id="Path-2" data-name="Path" d="M11.44,7.069A7.073,7.073,0,0,1,0,12.629,7.073,7.073,0,0,0,1.187,2.7,6.933,6.933,0,0,0,0,1.509a7.073,7.073,0,0,1,11.44,5.56Z" transform="translate(12.9 1.464)" fill="#f69e1e"/>
+      </g>
+    </g>
+    <g id="visa-color_large" transform="translate(843.087 910)">
+      <rect id="card_bg-2" data-name="card_bg" width="32" height="21.333" rx="4" fill="#2a2a6c"/>
+      <path id="visa-logo" d="M11.342,6.347A4.751,4.751,0,0,1,9.607,6.02l.287-1.333a3.346,3.346,0,0,0,1.584.4h.042c.475-.007.953-.2.953-.607.006-.261-.218-.469-.827-.767s-1.393-.784-1.393-1.673c0-1.2,1.1-2.04,2.666-2.04a4.276,4.276,0,0,1,1.493.274l-.28,1.333a3.008,3.008,0,0,0-1.28-.288c-.1,0-.2,0-.294.014-.46.061-.667.3-.667.514,0,.258.33.431.748.65.664.347,1.489.78,1.485,1.8l.034-.053c-.007,1.28-1.1,2.107-2.78,2.107Zm4.418-.053H14.08L16.474.58A.724.724,0,0,1,17.14.127h1.333l1.293,6.166H18.287l-.193-.92H16.087l-.326.92Zm1.587-4.5-.84,2.313h1.327Zm-8.88,4.48h-1.6L8.2.107H9.8L8.467,6.273Zm-3.5-.02H3.227L1.954,1.327a.67.67,0,0,0-.38-.54A6.611,6.611,0,0,0,0,.266L.04.086H2.753a.745.745,0,0,1,.74.627L4.16,4.28,5.82.086H7.553L4.967,6.253Z" transform="translate(6.107 7.487)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

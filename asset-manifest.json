@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.240ce44f.css",
+    "main.js": "/static/js/main.dfd5735d.js",
+    "static/js/453.df7730b4.chunk.js": "/static/js/453.df7730b4.chunk.js",
+    "static/media/logo.png": "/static/media/logo.4f35c36e758ed1ca8d9a.png",
+    "static/media/AktivGrotesk-BoldItalic.otf": "/static/media/AktivGrotesk-BoldItalic.1800bb3f28ea0d8d750f.otf",
+    "static/media/AktivGrotesk-Italic.otf": "/static/media/AktivGrotesk-Italic.4ffa353886e47219410f.otf",
+    "static/media/AktivGrotesk-Regular.otf": "/static/media/AktivGrotesk-Regular.1cb6e5860097cf00438f.otf",
+    "static/media/AktivGrotesk-MediumItalic.otf": "/static/media/AktivGrotesk-MediumItalic.321a4249bb9b8ac82b75.otf",
+    "static/media/AktivGrotesk-Medium.otf": "/static/media/AktivGrotesk-Medium.819660e4d7b7fd9daaab.otf",
+    "static/media/AktivGrotesk-Bold.otf": "/static/media/AktivGrotesk-Bold.a59fde7c05ec442fff4a.otf",
+    "static/media/AktivGrotesk-Regular.ttf": "/static/media/AktivGrotesk-Regular.d05b19c2f3cc67b609be.ttf",
+    "static/media/AktivGrotesk-Medium.ttf": "/static/media/AktivGrotesk-Medium.941db246a901b4c9d972.ttf",
+    "static/media/AktivGrotesk-Italic.ttf": "/static/media/AktivGrotesk-Italic.03f5bbea0b34640055b5.ttf",
+    "static/media/AktivGrotesk-Bold.ttf": "/static/media/AktivGrotesk-Bold.c4e27ea6b5bc901e70a8.ttf",
+    "static/media/AktivGrotesk-BoldItalic.ttf": "/static/media/AktivGrotesk-BoldItalic.35dcec6653b861007d41.ttf",
+    "static/media/AktivGrotesk-MediumItalic.ttf": "/static/media/AktivGrotesk-MediumItalic.a21c804bb93d854cf9b2.ttf",
+    "static/media/AktivGrotesk-ThinItalic.otf": "/static/media/AktivGrotesk-ThinItalic.4e9c51a8063e62bcd6a6.otf",
+    "static/media/AktivGrotesk-Thin.otf": "/static/media/AktivGrotesk-Thin.377b1744b57fb552d35e.otf",
+    "static/media/AktivGrotesk-ThinItalic.ttf": "/static/media/AktivGrotesk-ThinItalic.78608937e5f168867a2e.ttf",
+    "static/media/Almarai-Bold.ttf": "/static/media/Almarai-Bold.6950c5a6d2dcd9e29b5d.ttf",
+    "static/media/AktivGrotesk-Thin.ttf": "/static/media/AktivGrotesk-Thin.1e825920aa2ff835c590.ttf",
+    "static/media/404.png": "/static/media/404.f1a0965ca16b83164bde.png",
+    "static/media/knet.svg": "/static/media/knet.4710aa6972aba4a424feea1930fcd050.svg",
+    "static/media/visa-mstrcard.svg": "/static/media/visa-mstrcard.6663217532f245afa1f0b7c451068ad2.svg",
+    "static/media/mastercard.svg": "/static/media/mastercard.3e4f44feb415e7b85e94573d3d08501c.svg",
+    "index.html": "/index.html",
+    "static/media/visa.svg": "/static/media/visa.4718e29cb3815a3f383a23849ac15914.svg",
+    "static/media/arrow-right-black.svg": "/static/media/arrow-right-black.9b31ed59c1197a83c3b5d60a3b24a4c0.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.77291496249fab27c5e112600f061b80.svg",
+    "static/media/trash.svg": "/static/media/trash.766ae8d255dbbc2dacb8d4f58072e6d5.svg",
+    "static/media/user1.svg": "/static/media/user1.c6b37b8309904f86a670198e1ee6609e.svg",
+    "main.240ce44f.css.map": "/static/css/main.240ce44f.css.map",
+    "main.dfd5735d.js.map": "/static/js/main.dfd5735d.js.map",
+    "453.df7730b4.chunk.js.map": "/static/js/453.df7730b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240ce44f.css",
+    "static/js/main.dfd5735d.js"
+  ]
+}
